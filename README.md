@@ -4,11 +4,11 @@ Persian Word Frequency Database
 Persian Word Frequency Database is a collection of words frequency lists for
 Persian text corpora. The lists are available for the following corpora.
 
-* **Word Frequency in Persian Classical Poems, Rira Persian Digital Library**
+* **Persian Classical Poems, Rira Persian Digital Library**
 
     Source: http://rira.ir/
 
-* **Word Frequency in Persian Wikipedia**
+* **Persian Wikipedia**
 
     Source: https://fa.wikipedia.org/
 
